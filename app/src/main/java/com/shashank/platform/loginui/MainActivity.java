@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageView imageView;
     TextView textView;
-    int count = 0;
+    int count;
 
     @SuppressLint("ClickableViewAccessibility")
     @Override
