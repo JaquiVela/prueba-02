@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     ImageView imageView;
-    TextView textView;
+    TextView textView
     int count;
 
     @SuppressLint("ClickableViewAccessibility")
